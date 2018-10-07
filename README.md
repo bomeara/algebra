@@ -23,9 +23,14 @@
 2. Work to master by end of October
   * Standards
     * See https://www.ortn.edu/Curriculum/Math/2018-2019_Algebra_1_Pacing_Guide.pdf, first nine weeks
+
+
  [ ] Choosing appropriate units; precision
  [ ] Know terms, factors, coefficients
  [ ] Create equations and inequalities in one variable and use them to solve problems. Include equations arising from linear , quadratic, and exponential functions with integer exponents.
+
+
+ 
      [ ] Represent constraints by equations or inequalities, and by systems of equations and/or inequalities, and interpret solutions as viable or nonviable options in a modeling context. For example, represent inequalities describing nutritional and cost constraints on combinations of different foods
      [ ] Rearrange formulas to highlight a quantity of interest, using the same reasoning as in solving equations. For example, rearrange Ohm’s law V = IR to highlight resistance R. Tasks are limited to linear, quadratic, piecedwise, absolute value, and exponential equations with integer exponents.
      [ ] Solve linear equations and inequalities in one variable, including equations with coefficients represented by letters.
