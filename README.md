@@ -25,4 +25,5 @@
     * See https://www.ortn.edu/Curriculum/Math/2018-2019_Algebra_1_Pacing_Guide.pdf, first nine weeks
   * https://www.khanacademy.org/math/algebra/units-in-modeling
   * https://www.khanacademy.org/math/algebra/sequences
-  * https://github.com/bomeara/algebra/issues?q=is%3Aopen+is%3Aissue+milestone%3A%221st+nine+weeks%22
+  * [Things to have learned](https://github.com/bomeara/algebra/issues?q=is%3Aopen+is%3Aissue+milestone%3A%221st+nine+weeks%22)
+    * To learn this, go through the issues. Ones [tagged ixl](https://github.com/bomeara/algebra/issues?q=is%3Aopen+is%3Aissue+label%3Aixl) have corresponding ixl assignments.
